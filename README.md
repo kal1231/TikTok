@@ -11,7 +11,7 @@
 
 • توكن البوت
 
-[![التنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/taher-1/TikTok)
+[![التنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kal1231/TikTok)
 
 #### المميزات:
 
@@ -30,11 +30,3 @@
 بعد انتهاء المده اصنع حساب هيروكو اخرى ونصب ثانية 
 ```
 
-## قناه سورس كود البوت:
-
-[![القناه](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/Dragon_2022_D)
-[![المطور](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/T2R_9)
-
-
-#### LICENSE
-- GPLv3
