@@ -10,8 +10,7 @@ downloads = './downloads/{}/'
 
 START_BUTTONS=[
     [
-        InlineKeyboardButton('السورس', url='https://github.com/taher-1/TikTok'),
-        InlineKeyboardButton('قناة البوتات', url='https://t.me/Dragon_2022_D'),
+        InlineKeyboardButton('السورس', url='https://github.com/kal1231/TikTok'),
     ],]
 
 DL_BUTTONS=[
